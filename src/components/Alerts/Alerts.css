@@ -1,0 +1,5 @@
+.Alerts {
+  display: flex;
+  flex-direction: column-reverse;
+  padding-top: 16px;
+}

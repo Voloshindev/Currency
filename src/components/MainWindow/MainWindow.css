@@ -1,0 +1,13 @@
+.MainWindow {
+  border: 1px solid #bcbcbc;
+  padding: 16px;
+  border-radius: 5px;
+  background-color: #fafafa;
+}
+
+.MainWindow hr {
+  height: 1px;
+  background-color: #bcbcbc;
+  margin: 12px 0;
+  border: 0;
+}

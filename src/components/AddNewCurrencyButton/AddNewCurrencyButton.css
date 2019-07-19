@@ -1,0 +1,9 @@
+.AddNewCurrencyButton {
+  outline: none;
+  justify-content: center;
+}
+
+.MainWindow-AddNewCurrencyButton {
+  height: 42px;
+  width: 100%;
+}
